@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/robot-project/static/css/main.841f6680.css",
+    "main.js": "/robot-project/static/js/main.8efda0a4.js",
+    "static/js/787.edd59a96.chunk.js": "/robot-project/static/js/787.edd59a96.chunk.js",
+    "index.html": "/robot-project/index.html",
+    "main.841f6680.css.map": "/robot-project/static/css/main.841f6680.css.map",
+    "main.8efda0a4.js.map": "/robot-project/static/js/main.8efda0a4.js.map",
+    "787.edd59a96.chunk.js.map": "/robot-project/static/js/787.edd59a96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.841f6680.css",
+    "static/js/main.8efda0a4.js"
+  ]
+}
